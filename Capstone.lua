@@ -807,7 +807,7 @@ function showButtons(genome)
 		cells[nodes+o] = cell
 		local color
 		if cell.value > 0 then
-			color = 0xFF0000FF
+			color = 0xFFA3A3A3
 		else
 			color = 0xFF000000
 		end
